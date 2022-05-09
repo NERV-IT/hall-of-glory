@@ -1,0 +1,16 @@
+hall of glory - nerv linux artwork dump
+=======================================
+This repository hosts the artworks used by the Nerv Linux project. 
+It's clonned to /lib/nerv-artwork namespace in livecd build process.
+
+structure
+---------
+Directories are self-explanatory.
+
+wallpaper/ : contains wallpapers.
+bootloader/ : contains bootloader configurations and rice.
+	bootloader/gfx : contains GFX for various bootloaders.
+gtk/ : contains GTK goods.
+xdg/ : Some distro-specific pre-configurations for various apps.
+rice/ : *nix rices.
+
